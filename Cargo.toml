@@ -1,0 +1,11 @@
+[package]
+name = "lectern"
+version = "0.1.0"
+edition = "2024"
+authors = ["VilleOlof"]
+readme = "readme.md"
+repository = "https://github.com/VilleOlof/lectern"
+homepage = "https://github.com/VilleOlof/lectern"
+
+[dependencies]
+thiserror = "2"
