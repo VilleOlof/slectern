@@ -1,11 +1,11 @@
 [package]
-name = "lectern"
+name = "slectern"
 version = "0.1.0"
 edition = "2024"
 authors = ["VilleOlof"]
 readme = "readme.md"
-repository = "https://github.com/VilleOlof/lectern"
-homepage = "https://github.com/VilleOlof/lectern"
+repository = "https://github.com/VilleOlof/slectern"
+homepage = "https://github.com/VilleOlof/slectern"
 
 [dependencies]
 thiserror = "2"

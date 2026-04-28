@@ -1,4 +1,4 @@
-# lectern
+# slectern
 
 > A **String Reader**
 
@@ -8,7 +8,7 @@ Read different data types, destructure patterns from strings.
 ## Usage
 
 ```rust
-use lectern::{Reader, ReaderError};
+use slectern::{Reader, ReaderError};
 
 let mut r = Reader::new("  keyword 814 true \"sick noooo\"");
 

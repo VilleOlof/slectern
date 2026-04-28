@@ -1,4 +1,4 @@
-use lectern::{Reader, ReaderError};
+use slectern::{Reader, ReaderError};
 
 #[test]
 fn skip_whitespace_none() -> Result<(), ReaderError> {
