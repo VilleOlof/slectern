@@ -1,9 +1,11 @@
 [package]
 name = "slectern"
+description = "A String Reader"
 version = "0.1.0"
 edition = "2024"
 authors = ["VilleOlof"]
 readme = "readme.md"
+license = "MIT"
 repository = "https://github.com/VilleOlof/slectern"
 homepage = "https://github.com/VilleOlof/slectern"
 
